@@ -1,3 +1,3 @@
 # advanced-java2
 
-bla bla
+This is an extra line!
