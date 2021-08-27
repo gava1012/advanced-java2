@@ -1,8 +1,14 @@
+import java.util.ArrayList;
 
 public class App {
 
 	public static void main(String[] args) {
-		System.out.println("Hello World");
+		ArrayList<Integer> li = new ArrayList<Integer>();
+		li.add(1);
+		li.add(1);
+		li.add(1);
+		
+		li.forEach(System.out::println);
 	}
 
 }
